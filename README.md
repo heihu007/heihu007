@@ -1,9 +1,8 @@
 - 👋 Hi, I’m @heihu007
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-2584892825@qq.com
+- 👀 I’m interested in  zuoniyeye
+- 🌱我正在学习wakeng
+- 💞️ 我正在寻找合作，，，，，，来快活呀
+- 📫 邮箱就是2584892825@qq.com
 
 <!---
 heihu007/heihu007 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
